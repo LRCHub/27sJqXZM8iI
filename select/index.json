@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Shape of Love",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-07T08:24:59.915884Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shape of Love",
+      "artist": "White Town",
+      "has_synced": false,
+      "path": "select/01_Shape_of_Love_White_Town.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Shape of Love",
+      "artist": "White Town",
+      "has_synced": false,
+      "path": "select/02_The_Shape_of_Love_White_Town.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Shape of Love to Come",
+      "artist": "Say Anything",
+      "has_synced": true,
+      "path": "select/03_The_Shape_of_Love_to_Come_Say_Anything.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shape of Love (feat. Boy & Bear)",
+      "artist": "Passenger feat. Boy & Bear",
+      "has_synced": true,
+      "path": "select/04_Shape_of_Love_(feat._Boy_&_Bear)_Passenger_feat._Boy_&_Bear.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shape of Love",
+      "artist": "Passenger",
+      "has_synced": false,
+      "path": "select/05_Shape_of_Love_Passenger.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shape of Love",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/06_Shape_of_Love_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shape Of Love (feat. Boy & Bear)",
+      "artist": "Passenger",
+      "has_synced": true,
+      "path": "select/07_Shape_Of_Love_(feat._Boy_&_Bear)_Passenger.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Shape of Love to Come",
+      "artist": "Say Anything feat. Sherri Dupree-Bemis",
+      "has_synced": true,
+      "path": "select/08_The_Shape_of_Love_to_Come_Say_Anything_feat._Sherri_Dupree-Bemis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Shape of Love to Come (feat. Sherri Dupree-Bemis)",
+      "artist": "Say Anything",
+      "has_synced": true,
+      "path": "select/09_The_Shape_of_Love_to_Come_(feat._Sherri_Dupree-Bemis)_Say_Anything.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shape of Love",
+      "artist": "Passenger feat. Boy & Bear",
+      "has_synced": true,
+      "path": "select/10_Shape_of_Love_Passenger_feat._Boy_&_Bear.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "a shape of love",
+      "artist": "HIGH and MIGHTY COLOR",
+      "has_synced": true,
+      "path": "select/11_a_shape_of_love_HIGH_and_MIGHTY_COLOR.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Shape of Love to Come (Featuring Sherri Dupree-Bemis)",
+      "artist": "Say Anything",
+      "has_synced": true,
+      "path": "select/12_The_Shape_of_Love_to_Come_(Featuring_Sherri_Dupree-Bemis)_Say_Anything.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shape of Love",
+      "artist": "Passenger; Boy & Bear",
+      "has_synced": true,
+      "path": "select/13_Shape_of_Love_Passenger;_Boy_&_Bear.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shape Of Love",
+      "artist": "White Town",
+      "has_synced": true,
+      "path": "select/14_Shape_Of_Love_White_Town.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Shape of Love to Come",
+      "artist": "Say Anything feat. Sherri DuPree",
+      "has_synced": true,
+      "path": "select/15_The_Shape_of_Love_to_Come_Say_Anything_feat._Sherri_DuPree.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shape of Love (feat. Boy and Bear)",
+      "artist": "Passenger",
+      "has_synced": true,
+      "path": "select/16_Shape_of_Love_(feat._Boy_and_Bear)_Passenger.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shape of Love",
+      "artist": "Passenger Feat. Boy And Bear",
+      "has_synced": true,
+      "path": "select/17_Shape_of_Love_Passenger_Feat._Boy_And_Bear.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Shape of Love",
+      "artist": "DISH//",
+      "has_synced": true,
+      "path": "select/18_Shape_of_Love_DISH.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shape of Love",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_Shape_of_Love_NMIXX.txt"
+    }
+  ]
+}
